@@ -22,13 +22,22 @@ python Decode_QRCode.py
 
 ##### Authorized QRCode Example
 
-<img src="" alt="Details of QR" /></p>
+<p align="center"><img src="https://github.com/mtalhaabbas/Python-QRCode-Authentication/blob/main/static/auth.png" alt="Details of QR" /></p>
+
+
 
 ##### Un-Authorized QRCode Example
 
-<img src="" alt="Details of QR" /></p>
+<p align="center"><img src="https://github.com/mtalhaabbas/Python-QRCode-Authentication/blob/main/static/unauth.png" alt="Details of QR" /></p>
+
+
+
 #### QRCode Decode with Text Example
 
+<p align="center"><img src="https://github.com/mtalhaabbas/Python-QRCode-Authentication/blob/main/static/decode.png" alt="Details of QR" /></p>
 
-<p align="center"><img src="" alt="Details of QR" /></p>
 
+
+#### QRCode Decode with Text Example
+
+<p align="center"><img src="https://github.com/mtalhaabbas/Python-QRCode-Authentication/blob/main/static/decode1.png" alt="Details of QR" /></p>
